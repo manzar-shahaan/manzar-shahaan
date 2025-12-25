@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bobcat6797
+- 👋 Hi, I’m @manzar-shahaan
 - 👀 I’m interested in ... machine learning
 - 💞️ I’m looking to collaborate on ... anything interesting in today's economic-landscape
 - 📫 How to reach me ... Linked-In/subterren
