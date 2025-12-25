@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bobcat6797
-- 👀 I’m interested in ... machine learning and serentity
-- 🌱 I’m currently learning ... research-methods online (using Coursera)
+- 👀 I’m interested in ... machine learning
 - 💞️ I’m looking to collaborate on ... anything interesting in today's economic-landscape
 - 📫 How to reach me ... Linked-In/subterren
 - 😄 Pronouns: ... him
